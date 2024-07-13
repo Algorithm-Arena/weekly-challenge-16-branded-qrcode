@@ -1,8 +1,19 @@
-# Weekly Challenge #15 - Branded QRCode
+# Weekly Challenge #16 - Branded QRCode
 
 **For this challenge, you need to implement a QRCode generator where the image fits the style of your favorite brand.** In practice QRCode readers are very forgiving, which makes it possible to be creative in terms of how what you can do with the output. The idea behind this challenge is to find a way to enhance a brand by creating customized QR Codes for it.
 
 <img width="506" alt="image" src="https://github.com/Algorithm-Arena/weekly-challenge-16-branded-qrcode/assets/197597/9bc351d3-190b-413b-ae88-7b595fbd8b96">
+
+### Winners:
+
+* In first place, @Uzo2005 wins $85. It is a very practical application where it embeds the logo in the middle of the QR Code and automatically extracts the brand color! https://github.com/Algorithm-Arena/weekly-challenge-16-branded-qrcode/issues/2
+
+![image](https://github.com/user-attachments/assets/e1ca9808-6237-4c2d-9ae3-403dfcbc075f)
+
+* In second place, @NicolasRoelandt wins $60. When I said that QR Code parsers were forgiving, I had no idea that this kind of images could actually work, but try it with your phone, it does! https://github.com/Algorithm-Arena/weekly-challenge-16-branded-qrcode/issues/1
+
+![image](https://github.com/user-attachments/assets/e6c8be60-7d8a-4b00-a1c1-aa2acd45f595)
+
 
 ### Prizes:
 * Winner: $85
