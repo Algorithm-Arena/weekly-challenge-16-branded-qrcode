@@ -1,4 +1,4 @@
-# Weekly Challenge #15 - Branded QRCode
+# Weekly Challenge #16 - Branded QRCode
 
 **For this challenge, you need to implement a QRCode generator where the image fits the style of your favorite brand.** In practice QRCode readers are very forgiving, which makes it possible to be creative in terms of how what you can do with the output. The idea behind this challenge is to find a way to enhance a brand by creating customized QR Codes for it.
 
